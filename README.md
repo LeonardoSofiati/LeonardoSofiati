@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning Front-end lenguages with focus on JavaScript and React.js and also HTML + CSS
 - 📫 You can find me on my LinkedIn in my bio or in my e-mail: leonardo.sofiati17@gmail.com
 
+Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascript e React JS
+
+Whatsapp -> https://cooperative-quiet.surge.sh/
+Instagram -> https://aquatic-parent.surge.sh/
+Landing Page - > http://tacky-legs.surge.sh/
+
 <!---
 LeonardoSofiati/LeonardoSofiati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
