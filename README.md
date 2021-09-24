@@ -8,7 +8,9 @@ Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascr
 Whatsapp -> https://cooperative-quiet.surge.sh/
 Instagram -> https://aquatic-parent.surge.sh/
 Landing Page - > http://tacky-legs.surge.sh/
+Instagram - > https://delicate-icicle.surge.sh/
 Labenu Forms - > https://puzzling-observation.surge.sh/
+To-do List - > https://late-tramp.surge.sh/
 
 <!---
 LeonardoSofiati/LeonardoSofiati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
