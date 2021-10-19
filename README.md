@@ -6,7 +6,7 @@
 Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascript e React JS
 
 Whatsapp -> https://cooperative-quiet.surge.sh/
-Instagram -> https://aquatic-parent.surge.sh/
+Instagram -> https://aquatic-parent.surge.sh/ + https://likeable-chickens.surge.sh/ (versao com useState)
 Landing Page - > http://tacky-legs.surge.sh/
 Instagram - > https://delicate-icicle.surge.sh/
 Labenu Forms - > https://puzzling-observation.surge.sh/
