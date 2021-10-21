@@ -14,6 +14,7 @@ To-do List - > https://late-tramp.surge.sh/
 E-Commerce - > https://old-rub.surge.sh/
 Labeusers (utilização de API's) - > https://meaty-idea.surge.sh/
 Labefy (utilização de API's) - > https://motionless-fog.surge.sh/
+PokeDex Api (utilização de API com axios, useEffect e useState) - > https://maniacal-brothers.surge.sh/
 
 <!---
 LeonardoSofiati/LeonardoSofiati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
