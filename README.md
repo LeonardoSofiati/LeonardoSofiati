@@ -5,18 +5,15 @@
 
 Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascript e React JS
 
+Labefy (utilização de API's Rest com axios, useEffect e useState, JSON, Styled-components, Axios) - > https://motionless-fog.surge.sh/
+E-Commerce - > https://old-rub.surge.sh/
+Labeusers (utilização de API's) - > https://meaty-idea.surge.sh/
+Landing Page - > http://tacky-legs.surge.sh/
+PokeDex Api (utilização de API's Rest com axios, useEffect e useState) - > https://maniacal-brothers.surge.sh/
 Whatsapp -> https://cooperative-quiet.surge.sh/
 Instagram -> https://aquatic-parent.surge.sh/ + https://likeable-chickens.surge.sh/ (versao com useState)
-Landing Page - > http://tacky-legs.surge.sh/
 Instagram - > https://delicate-icicle.surge.sh/
 Labenu Forms - > https://puzzling-observation.surge.sh/
 To-do List - > https://late-tramp.surge.sh/
-E-Commerce - > https://old-rub.surge.sh/
-Labeusers (utilização de API's) - > https://meaty-idea.surge.sh/
-Labefy (utilização de API's) - > https://motionless-fog.surge.sh/
-PokeDex Api (utilização de API com axios, useEffect e useState) - > https://maniacal-brothers.surge.sh/
 
-<!---
-LeonardoSofiati/LeonardoSofiati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
