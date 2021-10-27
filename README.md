@@ -6,7 +6,7 @@
 Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascript e React JS
 
 Astromatch (utilização de API's Rest com axios, Hooks: useEffect e useState, JSON, Styled-components) - > https://trashy-mist.surge.sh/
-Labefy (utilização de API's Rest com axios,  Hooks: useEffect e useState, JSON, Styled-components) - > https://motionless-fog.surge.sh/
+Labefy (utilização de API's Rest com axios,  Hooks: useEffect e useState, JSON, Styled-components) - > https://panicky-owner.surge.sh/
 E-Commerce - > https://old-rub.surge.sh/
 Labeusers (utilização de API's) - > https://meaty-idea.surge.sh/
 Landing Page - > http://tacky-legs.surge.sh/
