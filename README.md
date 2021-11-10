@@ -8,6 +8,7 @@ Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascr
 Astromatch (utilização de API's Rest com axios, Hooks: useEffect e useState, JSON, Styled-components) - > https://trashy-mist.surge.sh/
 Labefy (utilização de API's Rest com axios,  Hooks: useEffect e useState, JSON, Styled-components) - > https://panicky-owner.surge.sh/
 E-Commerce - > https://old-rub.surge.sh/
+LabeX -> https://fascinated-patch.surge.sh/login
 Labeusers (utilização de API's) - > https://meaty-idea.surge.sh/
 Landing Page - > http://tacky-legs.surge.sh/
 PokeDex Api (utilização de API's Rest com axios, useEffect e useState) - > https://maniacal-brothers.surge.sh/
