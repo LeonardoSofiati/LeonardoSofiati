@@ -5,10 +5,10 @@
 
 Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascript e React JS
 
+LabeX -> https://ashamed-street.surge.sh/ -> (utilização de API's Rest com axios, Router, REGEX para validação de forms, Hooks: useEffect e useState, custom hooks, JSON, Styled-components)
 Astromatch (utilização de API's Rest com axios, Hooks: useEffect e useState, JSON, Styled-components) - > https://trashy-mist.surge.sh/
 Labefy (utilização de API's Rest com axios,  Hooks: useEffect e useState, JSON, Styled-components) - > https://panicky-owner.surge.sh/
 E-Commerce - > https://old-rub.surge.sh/
-LabeX -> https://well-off-effect.surge.sh/
 Labeusers (utilização de API's) - > https://meaty-idea.surge.sh/
 Landing Page - > http://tacky-legs.surge.sh/
 PokeDex Api (utilização de API's Rest com axios, useEffect e useState) - > https://maniacal-brothers.surge.sh/
