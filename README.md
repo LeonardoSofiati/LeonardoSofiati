@@ -1,10 +1,11 @@
 - 👋 Hi, I’m Leonardo Sofiati Buscariolo
-- 👀 I’m interested in a carrer change. From Inside Sales in multinational Germany Company (DHL Global Forwarding) to a Front-end Developer
-- 🌱 I’m currently learning Front-end lenguages with focus on JavaScript and React.js and also HTML + CSS
+- 👀 I’m ion my way to become a fullstack developer
+- 🌱 I’m currently a front-end developer at Gran Coffee with focus on JavaScript and React.js and also HTML + CSS
 - 📫 You can find me on my LinkedIn in my bio or in my e-mail: leonardo.sofiati17@gmail.com
 
-Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascript e React JS
+Abaixo alguns projetos que realizei até o momento utilizando HTML, CSS, Javascript e React JS, NodeJS, Express, Typescript, MySQL, PostgreSQL
 
+* OLX API -> https://github.com/LeonardoSofiati/olx-api -> (utilização de NodeJS, Express, Typescript, PostgreSQL, JWT Authentication, etc...)
 * Telzir -> https://nippy-reason.surge.sh/ -> (utilização de API's Rest com axios, Router, REGEX para validação de forms, Hooks: useEffect e useState, useContext, GlobalState, custom hooks, JSON, Styled-components, MUI, etc..)
 * LabeX -> https://ashamed-street.surge.sh/ -> (utilização de API's Rest com axios, Router, REGEX para validação de forms, Hooks: useEffect e useState, custom hooks, JSON, Styled-components)
 * Pokedex -> https://somber-unit.surge.sh/ -> (utilização de API's Rest com axios, Router, Hooks: useEffect e useState, useContext, GlobalState, custom hooks, JSON, Styled-components, MUI, etc..)
